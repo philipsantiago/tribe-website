@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     viewBox="0 0 512 512" width="512" height="512" version="1.1"
+     stroke-linecap="round" stroke-linejoin="round">
+  <title>Monkey mascot 01 — happy wave</title>
+  <desc>Original artwork for the Tribe app (round 3). Palette v3, one 12 u Maroon stroke; rules: STYLE-SHEET.md.
+ANCHORS (poses 02-04 copy layer-back/-body/-head + blush verbatim; layer-head and layer-face share rotate(10 256 172)): head c 256,176 rx 130 ry 124, tuft unioned in, crown 52 chin 300; ears r 42 at 120/392,186 pre-tilt (layer-head, before the skull); eyes 214/298,192 rx 21 ry 25 pre-tilt; nostrils y 212; mouth top y 221, 78 wide; blush 188/324,226; shoulders 178,308 / 336,308 r 37; torso 262-414, 208 wide at y 360; belly 256,344 rx 86 ry 64; no badge; sole y 479.
+REST ARM (verbatim in 02/03): arm-l 178,308->196,372 r 37, shade-arm-l, mitt-l palm 206,380 r 30.
+ORIGINALITY MARKERS, keep in every pose: Coral ear core offset 4 u outward, no Peach middle ring; White secondary glint lower-outer; compact 3-lobe mitts, no finger fan, no palm crease; rounded two-wave tuft, no spikes or notch; tail on the LEFT, open hook; frontal body under a tilted head; no banana, heart bubble, mint tile or badge.
+Z-ORDER: layer-shadow sits below arms and head, so shade-head/-cheek live in layer-head and shade-arm-l/-r in layer-arms; only shade-tail/-torso/-belly are in layer-shadow.</desc>
+
+  <g id="layer-keyline" inkscape:groupmode="layer" inkscape:label="00 keyline (dark-mode halo, hidden)" display="none">
+    <path id="keyline" d="M 258 29 C 237.5 29 227 43.5 230 54.5 A 130 124 0 0 0 138.5 148.5 A 42 42 0 0 0 120 144 A 42 42 0 0 0 78 186 A 42 42 0 0 0 120 228 A 42 42 0 0 0 143.5 220.5 A 130 124 0 0 0 175.5 272.5 A 96 96 0 0 0 176 274 A 37 37 0 0 0 142.5 318 L 152.5 353.5 A 104 98 0 0 0 152 360 A 104 54 0 0 0 160 381 L 160.5 382 A 37 37 0 0 0 163.5 388 L 163 388 L 155.5 386.5 L 147.5 384 L 140 382 L 132.5 379 L 125.5 376 L 118 372.5 L 111.5 368.5 L 105 364.5 L 99 360.5 L 93.5 356 L 88.5 351 L 84.5 346.5 L 80.5 341.5 L 77.5 336.5 L 75 331.5 L 73.5 326.5 L 72.5 321.5 L 72 315 L 73 311.5 L 74.5 308 L 76.5 305.5 L 79.5 303.5 L 83 302.5 L 87 302 L 90.5 303 L 94 304.5 L 96.5 306.5 L 98.5 309.5 L 99.5 313 L 100 317 L 99 321 L 97.5 324 L 95.5 326.5 L 94.5 327 A 14 14 0 0 0 111.5 349 L 115 346.5 L 119.5 341.5 L 123 336 L 125.5 330.5 L 127 324 L 128 317.5 L 127.5 310.5 L 126.5 305 L 124.5 299.5 L 122.5 295 L 119.5 290.5 L 115.5 286.5 L 111.5 282.5 L 107 279.5 L 102.5 277.5 L 97 275.5 L 91.5 274.5 L 86 274 L 80.5 274.5 L 75 275.5 L 69.5 277.5 L 65 279.5 L 60.5 282.5 L 56.5 286.5 L 52.5 290.5 L 49.5 295 L 47.5 299.5 L 45.5 305 L 44.5 310.5 L 44 316.5 L 44.5 325 L 46.5 333.5 L 49 342 L 53 350 L 57.5 357.5 L 63 364.5 L 68.5 371 L 75 377 L 82 382.5 L 89.5 388 L 97 392.5 L 105.5 397 L 113.5 401 L 122 405 L 131 408 L 139.5 411 L 148.5 413.5 L 157.5 415.5 L 166 417 L 175 418 L 176.5 418 C 176 419.5 176 421.5 176 423 L 176 427 C 176 434.5 178 441 182 446.5 A 66.5 66.5 0 0 0 158 459 A 14 14 0 0 0 186 459 A 14 14 0 0 0 213.5 462 C 214 462 214 462 214.5 462 A 14 14 0 0 0 242 459 A 66.5 66.5 0 0 0 234 453.5 C 241.5 447 246 437.5 246 427 L 246 423 C 246 419.5 245.5 416.5 244.5 413.5 A 104 54 0 0 0 267.5 413.5 C 266.5 416.5 266 419.5 266 423 L 266 427 C 266 437.5 270.5 447 278 453.5 A 66.5 66.5 0 0 0 270 459 A 14 14 0 0 0 297.5 462 C 298 462 298 462 298.5 462 A 14 14 0 0 0 326 459 A 14 14 0 0 0 354 459 A 66.5 66.5 0 0 0 330 446.5 C 334 441 336 434.5 336 427 L 336 423 C 336 414 332.5 405.5 327 399.5 A 104 54 0 0 0 360 360 A 104 98 0 0 0 357 338.5 A 37 37 0 0 0 358.5 337.5 L 367.5 330.5 L 376.5 323.5 L 385 316 L 394 308 L 402.5 299.5 L 411 290.5 L 419.5 280.5 L 427 270.5 L 434 259 L 440.5 247.5 L 446.5 234.5 L 451 221.5 L 454.5 211 L 457.5 201.5 L 461.5 189 L 465 177 L 468 165.5 L 470.5 154 L 472 141.5 L 473 129 L 473 120.5 A 37 37 0 0 0 467.5 101.5 A 33 33 0 0 0 462.5 78 A 15 15 0 1 0 448.5 51.5 A 15 15 0 0 0 418.5 54 A 15 15 0 0 0 398.5 75.5 A 13 13 0 1 0 402.5 101 A 33 33 0 0 0 403 103.5 A 37 37 0 0 0 399 119.5 L 398.5 132 L 397.5 141.5 L 397 144.5 A 42 42 0 0 0 392 144 A 42 42 0 0 0 374.5 148 A 130 124 0 0 0 350 90.5 C 343 64 331 50 319 44 C 312 39 302 46 296 52 C 291 42 282 32 262 29 C 260.5 29 259 29 258 29 z M 367.5 220 A 42 42 0 0 0 370.5 222 L 364 231.5 L 362 234 A 130 124 0 0 0 367.5 220 z" fill="#F5DCC0" stroke="#F5DCC0" stroke-width="32"/>
+  </g>
+
+  <g id="layer-back" inkscape:groupmode="layer" inkscape:label="10 back (tail)">
+    <path id="tail" d="M 204.5 390 L 198 391 L 191.5 391 L 185 391 L 177.5 390.5 L 170.5 389.5 L 163 388 L 155.5 386.5 L 147.5 384 L 140 382 L 132.5 379 L 125.5 376 L 118 372.5 L 111.5 368.5 L 105 364.5 L 99 360.5 L 93.5 356 L 88.5 351 L 84.5 346.5 L 80.5 341.5 L 77.5 336.5 L 75 331.5 L 73.5 326.5 L 72.5 321.5 L 72 315 L 73 311.5 L 74.5 308 L 76.5 305.5 L 79.5 303.5 L 83 302.5 L 87 302 L 90.5 303 L 94 304.5 L 96.5 306.5 L 98.5 309.5 L 99.5 313 L 100 317 L 99 321 L 97.5 324 L 95.5 326.5 L 94.5 327 A 14 14 0 0 0 111.5 349 L 115 346.5 L 119.5 341.5 L 123 336 L 125.5 330.5 L 127 324 L 128 317.5 L 127.5 310.5 L 126.5 305 L 124.5 299.5 L 122.5 295 L 119.5 290.5 L 115.5 286.5 L 111.5 282.5 L 107 279.5 L 102.5 277.5 L 97 275.5 L 91.5 274.5 L 86 274 L 80.5 274.5 L 75 275.5 L 69.5 277.5 L 65 279.5 L 60.5 282.5 L 56.5 286.5 L 52.5 290.5 L 49.5 295 L 47.5 299.5 L 45.5 305 L 44.5 310.5 L 44 316.5 L 44.5 325 L 46.5 333.5 L 49 342 L 53 350 L 57.5 357.5 L 63 364.5 L 68.5 371 L 75 377 L 82 382.5 L 89.5 388 L 97 392.5 L 105.5 397 L 113.5 401 L 122 405 L 131 408 L 139.5 411 L 148.5 413.5 L 157.5 415.5 L 166 417 L 175 418 L 183.5 419 L 192 419 L 200 418.5 L 207.5 418 A 14 14 0 0 0 204.5 390 Z" fill="#CF6A3E" stroke="#5A2016" stroke-width="12"/>
+  </g>
+
+  <g id="layer-body" inkscape:groupmode="layer" inkscape:label="20 body (torso, legs, feet, belly, badge)">
+    <rect id="leg-l" x="176" y="388" width="70" height="74" rx="35" fill="#CF6A3E" stroke="#5A2016" stroke-width="12"/>
+    <rect id="leg-r" x="266" y="388" width="70" height="74" rx="35" fill="#CF6A3E" stroke="#5A2016" stroke-width="12"/>
+    <path id="torso" d="M 152 360 A 104 98 0 0 1 360 360 A 104 54 0 0 1 152 360 Z" fill="#CF6A3E" stroke="#5A2016" stroke-width="12"/>
+    <path id="foot-l" d="M 158 459 A 66.5 66.5 0 0 1 242 459 A 14 14 0 0 1 214 459 A 14 14 0 0 1 186 459 A 14 14 0 0 1 158 459 Z" fill="#F5DCC0" stroke="#5A2016" stroke-width="12"/>
+    <path id="foot-r" d="M 270 459 A 66.5 66.5 0 0 1 354 459 A 14 14 0 0 1 326 459 A 14 14 0 0 1 298 459 A 14 14 0 0 1 270 459 Z" fill="#F5DCC0" stroke="#5A2016" stroke-width="12"/>
+    <ellipse id="belly" cx="256" cy="344" rx="86" ry="64" fill="#F5DCC0" stroke="none"/>
+  </g>
+
+  <g id="layer-shadow" inkscape:groupmode="layer" inkscape:label="25 shadow (occlusion tones, hideable)">
+    <path id="shade-tail" d="M 107 393.5 L 91.5 384.5 L 71.5 368 L 61 355 L 50 332.5 L 48 316.5 L 49 308.5 L 50 303.5 L 53 297 L 57.5 291 L 61 287.5 L 67 283 L 71 281 L 78.5 279 L 83.5 278 L 91 278.5 L 96 279.5 L 103 282 L 109 286 L 108 287.5 L 100 288 L 93.5 288.5 L 89.5 289.5 L 84.5 291 L 81 292.5 L 77 294.5 L 74.5 296.5 L 71.5 299.5 L 69.5 301.5 L 67 305 L 64.5 308.5 L 63.5 311.5 L 62 316 L 62.5 329.5 L 70 348.5 L 78 361.5 L 95.5 379 L 108 391.5 Z" fill="#B4553A" stroke="none"/>
+    <path id="shade-torso" d="M 354 363.5 L 353 366.5 L 352 369.5 L 350.5 372.5 L 349 375.5 L 346.5 378.5 L 344 381 L 341 384 L 337.5 386.5 L 334 389 L 330 391.5 L 325.5 394 L 321 396 L 316 398 L 311 399.5 L 305.5 401.5 L 300 403 L 294.5 404 L 288.5 405.5 L 282.5 406 L 276.5 407 L 275.5 404 L 280 397.5 L 284.5 394 L 288.5 390.5 L 292.5 388 L 296.5 385.5 L 300 383.5 L 303.5 381.5 L 307 380 L 310 378.5 L 313.5 377 L 316.5 376 L 320 374.5 L 323 373.5 L 326.5 372.5 L 329.5 371.5 L 333 370 L 336.5 368.5 L 340 367 L 344 365 L 350.5 363 Z" fill="#B4553A" stroke="none"/>
+    <path id="shade-belly" d="M 330 365.5 L 326 372 L 321 378 L 315 383 L 308.5 388 L 300.5 392 L 292.5 395.5 L 284 398.5 L 275 400.5 L 265.5 401.5 L 256 402 L 246.5 401.5 L 237 400.5 L 228 398.5 L 219.5 395.5 L 211.5 392 L 203.5 388 L 197 383 L 191 378 L 186 372 L 182 365.5 L 185 364.5 L 195.5 367 L 202.5 369.5 L 209.5 371.5 L 216.5 373 L 223.5 374 L 230 375 L 236.5 375.5 L 243 376 L 249.5 376 L 256 376 L 262.5 376 L 269 376 L 275.5 375.5 L 282 375 L 288.5 374 L 295.5 373 L 302.5 371.5 L 309.5 369.5 L 316.5 367 L 327 364.5 Z" fill="#ECBD92" stroke="none"/>
+  </g>
+
+  <g id="layer-arms" inkscape:groupmode="layer" inkscape:label="30 arms (behind head)">
+    <path id="arm-l" d="M 142.5 318 L 160.5 382 A 37 37 0 0 0 231.5 362 L 213.5 298 A 37 37 0 0 0 142.5 318 Z" fill="#CF6A3E" stroke="#5A2016" stroke-width="12"/>
+    <path id="shade-arm-l" d="M 150.5 324.5 L 151 327 L 152 329.5 L 152.5 332.5 L 154 337.5 L 155 340.5 L 155.5 343 L 156.5 345.5 L 157 348.5 L 158 351 L 159.5 356.5 L 160 359 L 161 361.5 L 161.5 364.5 L 162.5 367 L 163 369.5 L 164.5 375 L 165.5 377.5 L 166 380.5 L 169 379.5 L 173.5 375.5 L 176 372 L 176.5 366 L 177.5 363 L 178.5 359.5 L 178.5 356.5 L 179 354 L 178.5 351 L 177 345.5 L 176.5 343 L 175 340.5 L 173.5 338 L 171.5 335.5 L 169.5 333.5 L 166 328.5 L 163 326.5 L 159.5 324.5 L 153 323.5 Z" fill="#B4553A" stroke="none"/>
+    <path id="mitt-l" d="M 220 406.5 A 30 30 0 1 1 209.5 350 A 12 12 0 0 1 233 353.5 A 14 14 0 0 1 246 373 A 14 14 0 0 1 244 394 A 14 14 0 0 1 220 406.5 Z" fill="#F5DCC0" stroke="#5A2016" stroke-width="12"/>
+    <path id="arm-r" d="M 358.5 337.5 L 367.5 330.5 L 376.5 323.5 L 385 316 L 394 308 L 402.5 299.5 L 411 290.5 L 419.5 280.5 L 427 270.5 L 434 259 L 440.5 247.5 L 446.5 234.5 L 451 221.5 L 454.5 211 L 457.5 201.5 L 461.5 189 L 465 177 L 468 165.5 L 470.5 154 L 472 141.5 L 473 129 L 473 120.5 A 37 37 0 0 0 399 119.5 L 398.5 132 L 397.5 141.5 L 394.5 154.5 L 391 167 L 387 179 L 384 188.5 L 381 198.5 L 378 206.5 L 374.5 214 L 370.5 221.5 L 364 231.5 L 356 241 L 346.5 250.5 L 336.5 260 L 329 266 L 321.5 272.5 L 313.5 278.5 A 37 37 0 0 0 358.5 337.5 Z" fill="#CF6A3E" stroke="#5A2016" stroke-width="12"/>
+    <path id="shade-arm-r" d="M 410.5 281.5 L 418.5 272 L 425.5 261.5 L 432 250.5 L 438 238.5 L 443.5 226 L 445.5 219.5 L 449 209 L 452 200 L 454.5 191 L 457 183 L 459.5 175.5 L 461.5 168 L 462 164.5 L 464 156.5 L 465 149 L 466 141 L 466.5 133 L 467 124.5 L 464 124.5 L 458 132.5 L 454.5 140 L 451.5 147 L 448 153.5 L 445.5 160.5 L 443.5 163.5 L 440.5 170.5 L 438 177.5 L 435.5 185 L 433 193.5 L 430.5 203 L 428 214 L 427 220 L 423.5 232 L 420 243.5 L 416 255.5 L 411.5 267 L 408.5 280 Z" fill="#B4553A" stroke="none"/>
+    <path id="mitt-r" d="M 462.5 78 A 33 33 0 1 1 402.5 101 A 13 13 0 1 1 398.5 75.5 A 15 15 0 0 1 418.5 54 A 15 15 0 0 1 448.5 51.5 A 15 15 0 1 1 462.5 78 Z" fill="#F5DCC0" stroke="#5A2016" stroke-width="12"/>
+  </g>
+
+  <g id="layer-head" inkscape:groupmode="layer" inkscape:label="40 head (ears, tuft, skull, face mask)" transform="rotate(10 256 172)">
+    <circle id="ear-l" cx="120" cy="186" r="42" fill="#CF6A3E" stroke="#5A2016" stroke-width="12"/>
+    <circle id="ear-inner-l" cx="116" cy="186" r="20" fill="#F08A7C" stroke="#5A2016" stroke-width="12"/>
+    <circle id="ear-r" cx="392" cy="186" r="42" fill="#CF6A3E" stroke="#5A2016" stroke-width="12"/>
+    <circle id="ear-inner-r" cx="396" cy="186" r="20" fill="#F08A7C" stroke="#5A2016" stroke-width="12"/>
+    <path id="head" d="M 230 54.5 C 227 43 239 27 262 29 C 282 32 291 42 296 52 C 302 46 312 39 319 44 C 331 50 343 64 350 90.5 A 130 124 0 1 1 230 54.5 Z" fill="#CF6A3E" stroke="#5A2016" stroke-width="12"/>
+    <path id="shade-head" d="M 260.5 58 L 268.5 58.5 L 276.5 59.5 L 284.5 61 L 292.5 63.5 L 300.5 66 L 308 69 L 315.5 72.5 L 322.5 76.5 L 329 81 L 335.5 85.5 L 342 91 L 347.5 96.5 L 353 102.5 L 358 108.5 L 362.5 115 L 366.5 122 L 370 129 L 373 136.5 L 375.5 144 L 377.5 151.5 L 373.5 152 L 365 147 L 359 141.5 L 354 136 L 348.5 131 L 343.5 126.5 L 338.5 122 L 334 117.5 L 329 113.5 L 324 109.5 L 319 105.5 L 314 101.5 L 309 97.5 L 303.5 94 L 298.5 90 L 292.5 86 L 287 82 L 280.5 78 L 274.5 74 L 267.5 69.5 L 260 61.5 Z" fill="#B4553A" stroke="none"/>
+    <path id="face-mask" d="M 267.5 133 A 50 50 0 0 1 359.5 167 A 679.5 679.5 0 0 1 352 221 A 96 96 0 0 1 160 221 A 679.5 679.5 0 0 1 152.5 167 A 50 50 0 0 1 244.5 133 A 14 14 0 0 0 267.5 133 Z" fill="#F5DCC0" stroke="#5A2016" stroke-width="12"/>
+    <path id="shade-cheek" d="M 334 249 L 332 252.5 L 329.5 255.5 L 327.5 259 L 325 262 L 322.5 265 L 319.5 267.5 L 317 270.5 L 314 273 L 311 275.5 L 307.5 277.5 L 304.5 280 L 301 282 L 297.5 284 L 294 285.5 L 290.5 287 L 287 288.5 L 283 290 L 279.5 291 L 275.5 292 L 271.5 292.5 L 271 290.5 L 274 285.5 L 277 282.5 L 280 279.5 L 282.5 277 L 285.5 275 L 288 272.5 L 290.5 270.5 L 293 268.5 L 296 266.5 L 298.5 264.5 L 301 263 L 304 261 L 306.5 259.5 L 309.5 257.5 L 312.5 256 L 315.5 254 L 319 252.5 L 322.5 250.5 L 326.5 249 L 332 248 Z" fill="#ECBD92" stroke="none"/>
+  </g>
+
+  <g id="layer-face" inkscape:groupmode="layer" inkscape:label="50 face (brows, eyes, glints, nose, mouth, blush)" transform="rotate(10 256 172)">
+    <ellipse id="eye-l" cx="214" cy="192" rx="21" ry="25" fill="#5A2016" stroke="none"/>
+    <ellipse id="eye-r" cx="298" cy="192" rx="21" ry="25" fill="#5A2016" stroke="none"/>
+    <ellipse id="glint-l" cx="221" cy="184" rx="7.5" ry="8.5" fill="#FFFFFF" stroke="none"/>
+    <ellipse id="glint-r" cx="291" cy="184" rx="7.5" ry="8.5" fill="#FFFFFF" stroke="none"/>
+    <path id="mouth" d="M 217 221 Q 256 243 295 221 A 4.5 4.5 0 0 1 296 234.5 A 39 38 0 0 1 216 234.5 A 4.5 4.5 0 0 1 217 221 Z" fill="#5A2016" stroke="none"/>
+    <path id="tongue" d="M 234 254 Q 245 240 256 249 Q 267 240 278 254 A 33 32 0 0 1 234 254 Z" fill="#E8798A" stroke="none"/>
+    <ellipse id="blush-l" cx="188" cy="226" rx="16" ry="8.5" fill="#F08A7C" stroke="none"/>
+    <ellipse id="blush-r" cx="324" cy="226" rx="16" ry="8.5" fill="#F08A7C" stroke="none"/>
+  </g>
+
+  <g id="layer-front" inkscape:groupmode="layer" inkscape:label="60 front (arm/hand in front of the face)"></g>
+
+  <g id="layer-props" inkscape:groupmode="layer" inkscape:label="70 props (phone, thought cloud, confetti)"></g>
+
+  <g id="layer-detail" inkscape:groupmode="layer" inkscape:label="80 detail (small marks, hideable below 64 px)">
+    <path id="nostril-l" d="M 230 202.5 C 226 207.5 228.5 214.5 236 215.5 C 242 213 241 207 235.5 207 C 233.5 202 230 202.5 230 202.5 Z" fill="#5A2016" stroke="none"/>
+    <path id="nostril-r" d="M 270 209.5 C 272 215.5 267 221 259.5 220 C 255 215.5 258 210 263 212 C 267 208 270 209.5 270 209.5 Z" fill="#5A2016" stroke="none"/>
+    <circle id="glint-small-l" cx="203.5" cy="192" r="4" fill="#FFFFFF" stroke="none"/>
+    <circle id="glint-small-r" cx="298" cy="209" r="4" fill="#FFFFFF" stroke="none"/>
+    <circle id="ear-hi-l" cx="110" cy="153.5" r="7.5" fill="#FFFFFF" stroke="none"/>
+    <circle id="ear-hi-r" cx="399.5" cy="204.5" r="7.5" fill="#FFFFFF" stroke="none"/>
+  </g>
+</svg>
